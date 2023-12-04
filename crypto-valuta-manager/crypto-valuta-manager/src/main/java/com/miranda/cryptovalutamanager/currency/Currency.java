@@ -49,4 +49,16 @@ public class Currency {
                 ", marketCap = " + marketCap +
                 '}';
     }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public void setNumberOfCoins(Double numberOfCoins) {
+        this.numberOfCoins = numberOfCoins;
+    }
+
+    public void setMarketCap(Double marketCap) {
+        this.marketCap = marketCap;
+    }
 }

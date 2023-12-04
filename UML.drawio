@@ -1,1 +1,130 @@
-<mxfile host="app.diagrams.net" modified="2023-12-04T11:40:51.515Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="_dCKHJkhLcw0WvA4_Mjr" version="20.5.3" type="device"><diagram id="Kx1Aah89U-cvVljXIuLv" name="Page-1">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-12-04T12:12:01.794Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="U9FtCsLkeqWOftXBIQms" version="22.1.5" type="device">
+  <diagram id="Kx1Aah89U-cvVljXIuLv" name="Page-1">
+    <mxGraphModel dx="1034" dy="1593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xkHNSnGAutwd5pTKBwsx-1" value="Currency" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="740" y="80" width="310" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="xkHNSnGAutwd5pTKBwsx-2" value="- ticker : String" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="xkHNSnGAutwd5pTKBwsx-1" vertex="1">
+          <mxGeometry y="30" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xkHNSnGAutwd5pTKBwsx-3" value="- name : String" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="xkHNSnGAutwd5pTKBwsx-1" vertex="1">
+          <mxGeometry y="60" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xkHNSnGAutwd5pTKBwsx-4" value="- numberOfCoins : Double" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="xkHNSnGAutwd5pTKBwsx-1" vertex="1">
+          <mxGeometry x="10" y="90" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xkHNSnGAutwd5pTKBwsx-5" value="- marketCap :&amp;nbsp; Double" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="xkHNSnGAutwd5pTKBwsx-1" vertex="1">
+          <mxGeometry y="120" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xkHNSnGAutwd5pTKBwsx-11" value="+ calculateMarketCap(latestValue : Double) :&amp;nbsp; Double" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="xkHNSnGAutwd5pTKBwsx-1" vertex="1">
+          <mxGeometry x="5" y="170" width="285" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xkHNSnGAutwd5pTKBwsx-10" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="xkHNSnGAutwd5pTKBwsx-1" target="xkHNSnGAutwd5pTKBwsx-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="220" as="sourcePoint" />
+            <mxPoint x="440" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xkHNSnGAutwd5pTKBwsx-13" value="CurrencyController" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" parent="1" vertex="1">
+          <mxGeometry x="40" y="80" width="190" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="xkHNSnGAutwd5pTKBwsx-19" value="- currencyService : CurrencyService" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="xkHNSnGAutwd5pTKBwsx-13" vertex="1">
+          <mxGeometry x="10" y="30" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xkHNSnGAutwd5pTKBwsx-20" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="xkHNSnGAutwd5pTKBwsx-13" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="70" as="sourcePoint" />
+            <mxPoint x="190" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xkHNSnGAutwd5pTKBwsx-31" value="+ getCurrency() : Currency&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%2B%20calculateMarketCap(latestValue%20%3A%20Integer)%20%3A%26amp%3Bnbsp%3B%20Integer%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22725%22%20y%3D%22250%22%20width%3D%22285%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="xkHNSnGAutwd5pTKBwsx-13" vertex="1">
+          <mxGeometry y="70" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xkHNSnGAutwd5pTKBwsx-32" value="+ getAllCurrencies() : List&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%2B%20calculateMarketCap(latestValue%20%3A%20Integer)%20%3A%26amp%3Bnbsp%3B%20Integer%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22725%22%20y%3D%22250%22%20width%3D%22285%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="xkHNSnGAutwd5pTKBwsx-13" vertex="1">
+          <mxGeometry y="90" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xkHNSnGAutwd5pTKBwsx-34" value="+ addCurrency()&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%2B%20calculateMarketCap(latestValue%20%3A%20Integer)%20%3A%26amp%3Bnbsp%3B%20Integer%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22725%22%20y%3D%22250%22%20width%3D%22285%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="xkHNSnGAutwd5pTKBwsx-13" vertex="1">
+          <mxGeometry y="110" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xkHNSnGAutwd5pTKBwsx-35" value="+ updateCurrency()&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%2B%20calculateMarketCap(latestValue%20%3A%20Integer)%20%3A%26amp%3Bnbsp%3B%20Integer%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22725%22%20y%3D%22250%22%20width%3D%22285%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="xkHNSnGAutwd5pTKBwsx-13" vertex="1">
+          <mxGeometry y="130" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xkHNSnGAutwd5pTKBwsx-36" value="+ deleteCurrency()&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%2B%20calculateMarketCap(latestValue%20%3A%20Integer)%20%3A%26amp%3Bnbsp%3B%20Integer%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22725%22%20y%3D%22250%22%20width%3D%22285%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="xkHNSnGAutwd5pTKBwsx-13" vertex="1">
+          <mxGeometry y="150" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xkHNSnGAutwd5pTKBwsx-21" value="CurrencyService" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" parent="1" vertex="1">
+          <mxGeometry x="280" y="80" width="190" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="xkHNSnGAutwd5pTKBwsx-22" value="- currencyRepository : CurrencyRepository" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="xkHNSnGAutwd5pTKBwsx-21" vertex="1">
+          <mxGeometry x="10" y="30" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xkHNSnGAutwd5pTKBwsx-23" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="xkHNSnGAutwd5pTKBwsx-21" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="70" as="sourcePoint" />
+            <mxPoint x="190" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xkHNSnGAutwd5pTKBwsx-37" value="+ getCurrency() : Currency&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%2B%20calculateMarketCap(latestValue%20%3A%20Integer)%20%3A%26amp%3Bnbsp%3B%20Integer%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22725%22%20y%3D%22250%22%20width%3D%22285%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="xkHNSnGAutwd5pTKBwsx-21" vertex="1">
+          <mxGeometry y="70" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xkHNSnGAutwd5pTKBwsx-38" value="+ getAllCurrencies() : List&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%2B%20calculateMarketCap(latestValue%20%3A%20Integer)%20%3A%26amp%3Bnbsp%3B%20Integer%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22725%22%20y%3D%22250%22%20width%3D%22285%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="xkHNSnGAutwd5pTKBwsx-21" vertex="1">
+          <mxGeometry y="90" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xkHNSnGAutwd5pTKBwsx-39" value="+ addCurrency()&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%2B%20calculateMarketCap(latestValue%20%3A%20Integer)%20%3A%26amp%3Bnbsp%3B%20Integer%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22725%22%20y%3D%22250%22%20width%3D%22285%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="xkHNSnGAutwd5pTKBwsx-21" vertex="1">
+          <mxGeometry y="110" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xkHNSnGAutwd5pTKBwsx-40" value="+ updateCurrency()&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%2B%20calculateMarketCap(latestValue%20%3A%20Integer)%20%3A%26amp%3Bnbsp%3B%20Integer%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22725%22%20y%3D%22250%22%20width%3D%22285%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="xkHNSnGAutwd5pTKBwsx-21" vertex="1">
+          <mxGeometry y="130" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xkHNSnGAutwd5pTKBwsx-41" value="+ deleteCurrency()&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%2B%20calculateMarketCap(latestValue%20%3A%20Integer)%20%3A%26amp%3Bnbsp%3B%20Integer%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22725%22%20y%3D%22250%22%20width%3D%22285%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="xkHNSnGAutwd5pTKBwsx-21" vertex="1">
+          <mxGeometry y="150" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xkHNSnGAutwd5pTKBwsx-24" value="CurrencyRepository" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" parent="1" vertex="1">
+          <mxGeometry x="510" y="80" width="190" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="xkHNSnGAutwd5pTKBwsx-26" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="xkHNSnGAutwd5pTKBwsx-24" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="70" as="sourcePoint" />
+            <mxPoint x="190" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xkHNSnGAutwd5pTKBwsx-27" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="xkHNSnGAutwd5pTKBwsx-24" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="180" as="sourcePoint" />
+            <mxPoint x="605" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xkHNSnGAutwd5pTKBwsx-28" value="JPA Repository&amp;lt;Currency, String&amp;gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" parent="1" vertex="1">
+          <mxGeometry x="510" y="-90" width="190" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="xkHNSnGAutwd5pTKBwsx-29" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="xkHNSnGAutwd5pTKBwsx-28" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="70" as="sourcePoint" />
+            <mxPoint x="190" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xkHNSnGAutwd5pTKBwsx-44" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" target="xkHNSnGAutwd5pTKBwsx-39" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="198" as="sourcePoint" />
+            <mxPoint x="560" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xkHNSnGAutwd5pTKBwsx-45" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="200" as="sourcePoint" />
+            <mxPoint x="510" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xkHNSnGAutwd5pTKBwsx-46" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" target="xkHNSnGAutwd5pTKBwsx-5" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="200" as="sourcePoint" />
+            <mxPoint x="740" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

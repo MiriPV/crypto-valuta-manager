@@ -1,6 +1,7 @@
 package com.miranda.cryptovalutamanager.currency;
 
-import org.modelmapper.ModelMapper;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
@@ -11,11 +12,14 @@ import java.util.Optional;
 @RequestMapping(path = "api/currencies")
 public class CurrencyController {
 
-    private ModelMapper modelMapper;
     private final CurrencyService currencyService;
+    private final Logger logger = LoggerFactory.getLogger(this.getClass());
+    private final String GET = "API CALL GET: ";
+    private final String POST = "API CALL POST: ";
+    private final String PUT = "API CALL PUT: ";
+    private final String DELETE = "API CALL DELETE: ";
 
     public CurrencyController(CurrencyService currencyService) {
-        super();
         this.currencyService = currencyService;
     }
 
@@ -31,6 +35,7 @@ public class CurrencyController {
             @RequestParam(defaultValue = "0") Integer page,
             @RequestParam(defaultValue = "1000") Integer size,
             @RequestParam(defaultValue = "ticker") String sort) {
+        logger.trace(GET + "getCurrencies - page: " + page + ", size: " + size + ", sort: " + sort);
         return currencyService.getCurrencies(page, size, sort);
     }
 
@@ -41,6 +46,7 @@ public class CurrencyController {
      */
     @GetMapping(path = "{currencyId}")
     public Optional<Currency> getCurrencyById (@PathVariable("currencyId") String id){
+        logger.trace(GET + "getCurrencyById - id: " + id);
         return currencyService.getCurrencyById(id);
     }
 
@@ -51,6 +57,7 @@ public class CurrencyController {
      */
     @PostMapping
     public ResponseEntity<Currency> addCurrency(@RequestBody CurrencyDto currencyDto) {
+        logger.trace(POST + "addCurrency - RequestBody: " + currencyDto.toString());
         CurrencyBuilder builder = new CurrencyBuilder(currencyDto.getTicker());
         Currency currency = builder
                 .setName(currencyDto.getName())
@@ -70,6 +77,7 @@ public class CurrencyController {
     public Optional<Currency> updateCurrency(
             @PathVariable("currencyId") String id,
             @RequestBody CurrencyDto currencyDto) {
+        logger.trace(PUT + "updateCurrency - id: " + id + " - RequestBody: " + currencyDto.toString());
         CurrencyBuilder builder = new CurrencyBuilder(currencyDto.getTicker());
         Currency currency = builder
                 .setName(currencyDto.getName())
@@ -86,6 +94,7 @@ public class CurrencyController {
      */
     @DeleteMapping(path = "{currencyId}")
     public ResponseEntity<Optional<Currency>> deleteCurrency(@PathVariable("currencyId") String id) {
+        logger.trace(DELETE + "deleteCurrency - id: " + id);
         return currencyService.deleteCurrency(id);
     }
 }

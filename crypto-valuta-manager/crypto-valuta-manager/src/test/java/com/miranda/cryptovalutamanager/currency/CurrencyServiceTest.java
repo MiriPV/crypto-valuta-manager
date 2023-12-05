@@ -1,7 +1,6 @@
 package com.miranda.cryptovalutamanager.currency;
 
 import org.assertj.core.api.Assertions;
-import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.mockito.InjectMocks;
@@ -12,7 +11,6 @@ import org.springframework.data.domain.*;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.HttpStatusCode;
 import org.springframework.http.ResponseEntity;
-import org.yaml.snakeyaml.error.Mark;
 
 import java.util.List;
 import java.util.Optional;

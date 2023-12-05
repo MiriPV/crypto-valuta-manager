@@ -28,4 +28,14 @@ public class CurrencyDto {
     public Double getMarketCap() {
         return marketCap;
     }
+
+    @Override
+    public String toString() {
+        return "CurrencyDto {" +
+                "ticker ='" + ticker + '\'' +
+                ", name ='" + name + '\'' +
+                ", numberOfCoins =" + numberOfCoins +
+                ", marketCap =" + marketCap +
+                '}';
+    }
 }

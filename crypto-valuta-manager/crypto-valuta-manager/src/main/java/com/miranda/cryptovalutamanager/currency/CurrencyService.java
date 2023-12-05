@@ -61,16 +61,15 @@ public class CurrencyService {
      * @param currency The new currency entity
      * @return Optional<Currency>
      */
-    public Optional<Currency> updateCurrency(String id, Currency currency) {
-        currencyRepository
-                .findById(id)
+    public Currency updateCurrency(String id, Currency currency) {
+        return currencyRepository.findById(id)
                 .map(oldCurrency -> {
                     oldCurrency.setName(currency.getName());
                     oldCurrency.setNumberOfCoins(currency.getNumberOfCoins());
                     oldCurrency.setMarketCap(currency.getMarketCap());
-                    return currencyRepository.save(currency);
-                });
-        return Optional.empty();
+                    return currencyRepository.save(oldCurrency);
+                })
+                .orElseGet(() -> currencyRepository.save(currency));
     }
 
     /**

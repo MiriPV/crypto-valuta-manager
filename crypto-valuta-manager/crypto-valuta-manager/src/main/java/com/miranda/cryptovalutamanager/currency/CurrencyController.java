@@ -71,10 +71,10 @@ public class CurrencyController {
      * Updates the values of a currency entity in the database
      * @param id the id of the currency entity that needs to be updated
      * @param currencyDto transfers the data to a currency entity
-     * @return Optional<Currency>
+     * @return Currency
      */
     @PutMapping(path = "{currencyId}")
-    public Optional<Currency> updateCurrency(
+    public Currency updateCurrency(
             @PathVariable("currencyId") String id,
             @RequestBody CurrencyDto currencyDto) {
         logger.trace(PUT + "updateCurrency - id: " + id + " - RequestBody: " + currencyDto.toString());
